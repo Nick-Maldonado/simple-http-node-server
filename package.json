@@ -1,0 +1,23 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "This repository is for the Node Core Libraries checkpoint.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Maldonado/simple-http-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Maldonado/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/Nick-Maldonado/simple-http-node-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
